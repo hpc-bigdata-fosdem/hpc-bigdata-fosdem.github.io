@@ -138,7 +138,7 @@ Create an account only if you don't have one from a previous year.
 ## Organizers
 
 - Kenneth Hoste a.k.a. <a href="https://github.com/boegel" target="_blank">boegel</a> (HPC team at Ghent University, Belgium)
-- Adam Huffman a.k.a. <a href="https://github.com/verdurin" target="_blank">verdurin</a> (Big Data Institute, Oxford, UK)
+- Adam Huffman a.k.a. <a href="https://github.com/verdurin" target="_blank">verdurin</a> (University of Oxford, UK)
 
 Devroom volunteers:
 
