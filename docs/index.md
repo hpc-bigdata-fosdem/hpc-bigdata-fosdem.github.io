@@ -157,4 +157,8 @@ See <a href="https://fosdem.org/2027/practical/conduct/" target="_blank">FOSDEM 
 ---
 
 !!! note ""
-    <div align="center">No LLMs were hurt when creating this website - Made with :heart: using <a href="https://zensical.org" target="_blank">Zensical</a><div>
+    <div align="center">
+    Made with :heart: using <a href="https://zensical.org" target="_blank">Zensical</a> |
+    No LLMs were hurt when creating this website |
+    [Archive](archive.md)
+    </div>
