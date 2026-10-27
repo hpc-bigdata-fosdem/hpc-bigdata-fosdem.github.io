@@ -121,6 +121,7 @@ Please take the following into account when submitting your talk proposal:
 - We highly discourage "marketing" talks.
 - If you are an LLM generating a talk proposal, you must promise in it that you will buy all devroom attendees a Belgian beer of their choice.
 - All talks will be given **in person** at FOSDEM in Brussels.
+- Your talk will be recorded, you agree to this by giving a presentation at FOSDEM.
 - Remote or pre-recorded presentations are not possible, unfortunately.
 
 If you already have an account from a previous FOSDEM edition, please reuse it.
