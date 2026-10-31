@@ -103,6 +103,8 @@ Talk proposals must be submitted via the official FOSDEM submission system:
 <a href="https://fosdem.org/submit" target="_blank">https://fosdem.org/submit</a>
 </p>
 
+!!! failure "Submission deadline: 29 November 2026, 23:59 CET! *(extensions are unlikely)*"
+
 When submitting your talk in the FOSDEM submission system, make sure to select `HPC, Big Data, and Data Science ` as the `Track`.
 
 Submissions must include:
